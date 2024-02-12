@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.yahoofinance-api:YahooFinanceAPI:3.17.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-graphics:mac:21.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-controls:mac:21.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.openjfx:javafx-base:mac:21.0.2" level="project" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="8604ee4d-5fde-41bf-aca1-f8d11ddb5632" />
+  </component>
+</module>
